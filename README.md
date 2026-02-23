@@ -94,29 +94,4 @@ This reports:
 - 2-class (agranulocyte vs. granulocyte) metrics
 - Confusion matrices for both tasks
 
----
 
-## Results
-
-*Results will be updated upon manuscript acceptance.*
-
----
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{yourkey2024,
-  title   = {Your Manuscript Title},
-  author  = {Author, A. and Author, B.},
-  journal = {The Visual Computer},
-  year    = {2024}
-}
-```
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
