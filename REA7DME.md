@@ -26,7 +26,9 @@ Neutrophil/
 ```bash
 pip install -r requirements.txt
 
-## Training
+---
+
+## Installation
 
 python train.py --data_dir "/path/to/Raabin-WBC"
 
