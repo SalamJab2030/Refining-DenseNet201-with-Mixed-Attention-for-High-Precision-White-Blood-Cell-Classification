@@ -18,3 +18,10 @@ Eosinophil/
 Lymphocyte/
 Monocyte/
 Neutrophil/
+
+---
+
+## Installation
+
+```bash
+pip install -r requirements.txt
